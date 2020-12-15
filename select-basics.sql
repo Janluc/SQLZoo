@@ -22,7 +22,8 @@ with an area between 200,000 and 250,000.
 
       SELECT name, area FROM world
       WHERE area BETWEEN 200000 AND 250000
-// QUIZ
+
+-- QUIZ
 
 1. Select the code which produces this table
 
